@@ -1,0 +1,12 @@
+{
+  "name": "json-server-api",
+  "version": "1.0.0",
+  "description": "Mock API with overridden methods using express",
+  "main": "server.js",
+  "scripts": {
+    "start": "set PORT=3000 && node server.js"
+  },
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
