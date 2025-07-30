@@ -6,7 +6,7 @@
 
 3.在 /Express 資料下 npm install
 
-4.在 /Express 資料下 npm start可啟動服務(預設port:3000)
+4.在 /Express 資料下 npm start可啟動服務(預設port:80)
 
 5./Express/responses.js 中可新增對應的回傳假資料 (重新新增要重啟服務)
 下圖範例
